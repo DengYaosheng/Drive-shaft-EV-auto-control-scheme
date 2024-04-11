@@ -1,5 +1,23 @@
 # Control Framework for EV Automobile Scheme
 
+## 2024-04-11 Update AutoParking_Parallel_MPC
+### Software version:
+CarSim2019.0 Matlab 2020b and above
+1. Copy PathPlan_PSO.m AutoParking_Vertical_PPC_v1.mdl to (D or C, See your document directory):\Users\Public\Documents\CarSim_Data\Extensions\Simulink\ Create a folder such as APA
+2. Import CarSim configuration file AutoParking_Vertical_PPC_v1
+3. Change the Working direction (D:\Users\Public\Documents\CarSim2019.0_Data) and Simulink The path of the Model is the path of your computer (D:\Users\Public\Documents\CarSim_Data\Extensions\Simulink\ create a folder such as APA)
+4. Send to Simulink to run simulation
+### Demo
+
+
+https://github.com/DengYaosheng/Drive-shaft-EV-auto-control-scheme/assets/41530023/20f73768-3c86-4eea-9a42-2839df359e0e
+
+
+
+https://github.com/DengYaosheng/Drive-shaft-EV-auto-control-scheme/assets/41530023/6443843f-422c-4dad-a7b1-c78068f39eff
+
+
+
 ![image](https://github.com/DengYaosheng/Drive-shaft-auto-control-scheme/assets/41530023/45736202-fe04-4028-9783-da2e4e948590)
 
  
