@@ -1,0 +1,6 @@
+Software version:
+CarSim2019.0 matlab 2020b and above
+1. Copy PathPlan_PSO.m AutoParking_Vertical_PPC_v1.mdl to (D or C, See your own document directory):\Users\Public\Documents\CarSim_Data\Extensions\Simulink\ Create a folder such as APA
+2. Import CarSim configuration file AutoParking_Vertical_PPC_v1
+3. Change the Working direction (D:\Users\Public\Documents\CarSim2019.0_Data) and Simulink The path of the Model is the path of your computer (D:\Users\Public\Documents\CarSim_Data\Extensions\Simulink\ create a folder such as APA)
+4. Send to Simulink to run simulation
